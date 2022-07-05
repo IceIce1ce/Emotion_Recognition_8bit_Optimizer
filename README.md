@@ -1,5 +1,5 @@
 - Đồ án sẽ bao gồm 4 folder chính:
-+ FER2013_VGG19: chưa file đã lưu tại epoch tốt nhất của model
++ FER2013_VGG19: chứa file đã lưu tại epoch tốt nhất của model
 + data: chứa file fer2013.csv dùng cho việc train mà được lấy từ kaggle
 + face_detection: chứa một file dat pretrain nhận diện mặt người được lấy từ thư viện dlib
 + test_images: chứa các ảnh mặt người dùng cho dự đoán cảm xúc
